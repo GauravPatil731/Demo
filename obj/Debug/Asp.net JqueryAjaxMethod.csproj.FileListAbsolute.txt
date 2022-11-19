@@ -1,0 +1,56 @@
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\Asp.net JqueryAjaxMethod.dll.config
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\Asp.net JqueryAjaxMethod.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\Asp.net JqueryAjaxMethod.pdb
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csc.exe
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csc.exe.config
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csc.rsp
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csi.exe
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csi.exe.config
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\csi.rsp
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.AppContext.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Console.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\vbc.exe
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\vbc.exe.config
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\vbc.rsp
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\obj\Debug\Asp.net JqueryAjaxMethod.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\obj\Debug\Asp.net JqueryAjaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\obj\Debug\Asp.net JqueryAjaxMethod.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\obj\Debug\Asp.net JqueryAjaxMethod.dll
+C:\Users\Gaurav\source\repos\Asp.net JqueryAjaxMethod\Asp.net JqueryAjaxMethod\obj\Debug\Asp.net JqueryAjaxMethod.pdb
